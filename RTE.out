@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Write\040in\040Front}{}% 1
+\BOOKMARK [1][-]{section.2}{Chunk\040Tick}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Chunks,\040Sub-chunks}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Definition}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Example\040of\040Events\040Controlled\040by\040Chunk\040Tick\040update}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Random\040Tick}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Definition}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Random\040Tick\040Dependent\040Blocks}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Random\040Tick\040Update\040inside\040One\040Sub-chunk}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{The\040Probability\040Distribution\040Model\040of\040Random\040Tick\040Update}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Modification\040of\040our\040Model}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{In\040Real\040Application\040-\040Modify\040the\040Construction\040of\040Random\040Tick\040Depended\040Farm}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Condition\040probability}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{General\040Formula}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.3}{Other\040example}{section.5}% 15
